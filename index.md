@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to TNT_Craft|Core Repo!
 
-You can use the [editor on GitHub](https://github.com/TNTCraftSoftware/tntcore/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What is TNT_Craft|Core
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+TNT_Craft|Core is a core made for TNT_Craft. It can be used on any server without any config.
 
 # Header 1
 ## Header 2
